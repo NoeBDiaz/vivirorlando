@@ -1,0 +1,111 @@
+body{
+    background: url(../multimedia/parques/Presentación1.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 1800px;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.navbar{
+    margin-top: auto;
+    font-size: x-large;
+}
+
+.container{
+    margin-top: 100px;
+    background-color: bisque;
+    width: auto;
+    height: auto;
+}
+
+.titulo{
+    margin-top: 100px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.titulo2{
+    margin-top: 100px;
+    margin-right: 100px;
+    margin-left: 50px;
+}
+
+.titulo3{
+    margin-top: 100px;
+    margin-right: 26px;
+    margin-left: 50px; 
+}
+
+.titulo4{
+    margin-top: 100px;
+    margin-right: 29px;
+    margin-left: 50px;   
+}
+
+.texto{
+    margin-top: 15px;
+    margin-left: 50px;
+    margin-right: 100px;
+}
+
+.parque{
+    display: flex;
+    margin-top: 100px;
+}
+
+.titulo5{
+    margin-top: 100px;
+    margin-bottom: 20px;
+    margin-left: 80px;
+    margin-right: 100px;
+    color: blue;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.titulo6{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 80px;
+    margin-right: 100px;
+    color: blue;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.titulo7{
+    margin-top: 100px;
+    margin-bottom: 10px;
+    margin-left: 80px;
+    margin-right: 100px;
+    color: blue;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.textohome{
+    margin-top: 15px;
+    margin-left: 80px;
+    margin-right: 100px;
+}
+
+.video{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.textohome{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+.mapa{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.contact{
+
+}
